@@ -3,10 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Moja Strona na GitHub Pages</title>
+    <title>Boobel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        h1 {
+            color: pink; /* lub #FF69B4 dla mocniejszego odcienia różu */
+        }
+    </style>
 </head>
 <body>
-    <h1>Witaj na mojej stronie!</h1>
-    <p>To jest strona hostowana na GitHub Pages!</p>
+    <h1>Cześć, pod tym adresem będzie znajdować się strona Boobel.</h1>
 </body>
 </html>
